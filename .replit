@@ -1,2 +1,2 @@
 language = "python3"
-run = "python number_line_jumps.py"
+run = "python main.py"
